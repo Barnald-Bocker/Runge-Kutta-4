@@ -1,5 +1,4 @@
 # Problema a resolver:
-## Método Runge-Kutta de orden 4 (RK4)
 
 Se busca estudiar la evolución temporal de un estado $\mathbf{y}(t)$. Este estado será representado mediante una matriz 2x2 que corresponde a algún operador lineal. La función que genra la dinámica del problema es 
 $$
