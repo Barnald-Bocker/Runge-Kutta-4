@@ -1,4 +1,4 @@
-"""Add two objects.
+"""Runge-Kutta 4 algorithm.
 
 Modules exported by this package:
 
